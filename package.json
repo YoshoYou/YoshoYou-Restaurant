@@ -1,7 +1,7 @@
 {
   "name": "new-react",
   "version": "0.1.0",
-  "homepage": "https://YoshoYou.github.io/YoshoYou-Restaurant.github.io",
+  "homepage": "https://YoshoYou.github.io/YoshoYou-Restaurant",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
